@@ -1,0 +1,17 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+           <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN"
+           "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+           <plist version="1.0">
+           <dict>
+                <key>Label</key>
+                <string>com.rc.dater</string>
+                <key>Program</key>
+                <key>ProgramArguments</key>
+                <array>
+                     <string>/Users/rchatta/Documents/GITHUB/terminalPro/dater.sh</string>
+                </array>
+                
+                     <key>StartInterval</key>
+                     <integer>10</integer>
+           </dict>
+           </plist>
